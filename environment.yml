@@ -4,5 +4,7 @@ channels:
 dependencies:
   - pip
   - matplotlib
+  - pandas
+  - numpy
   - r
   - r-irkernel
